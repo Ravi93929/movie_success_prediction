@@ -1,4 +1,4 @@
-%%writefile app.py
+
 import streamlit as st
 import torch, joblib, numpy as np
 from sentence_transformers import SentenceTransformer
