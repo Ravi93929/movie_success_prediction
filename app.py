@@ -57,7 +57,7 @@ def predict_movie(movie):
     return label, prob
 
 st.set_page_config(page_title="🎬 Movie Success Predictor", layout="centered")
-st.title("🎬 Movie Success Prediction (Colab Demo)")
+st.title("🎬 Movie Success Prediction ")
 
 col1, col2 = st.columns(2)
 with col1:
